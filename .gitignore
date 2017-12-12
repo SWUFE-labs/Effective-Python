@@ -1,7 +1,4 @@
-bin
-lib
-pyvenv.cfg
-pip-selfcheck.json
-share
-include
+*.pyc
+*.mpy
+*.bin
 pycon2016-master/
