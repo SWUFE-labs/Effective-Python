@@ -2,3 +2,4 @@
 *.mpy
 *.bin
 pycon2016-master/
+.ipynb_checkpoints/
